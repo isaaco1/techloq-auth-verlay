@@ -1,0 +1,9 @@
+.masked-code {
+  cursor: pointer;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+
+.masked-code:hover {
+  color: #007bff;
+}
